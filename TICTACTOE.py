@@ -128,20 +128,7 @@ while True:
 
     if not replay():
         break
-#while True:
-    # Set the game up here
-    #pass
 
-    #while game_on:
-        #Player 1 Turn
-        
-        
-        # Player2's turn.
-            
-            #pass
-
-    #if not replay():
-        #break
 '''
 
 
